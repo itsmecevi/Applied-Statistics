@@ -13,3 +13,5 @@
    * Decision support system (Data-Driven)
 * Data & Scala? 
 * Software : Excel vs SPSS vs R
+
+### 2-Hands-On Microsoft Excel
