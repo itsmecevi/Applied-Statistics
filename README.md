@@ -5,7 +5,7 @@
 
 ### 1-Statistics is fun
 
-* Statistic vs statistics vs Sample vs Population
+* Statistic vs Statistics vs Sample vs Population
 * Why statistics ? 
    * Experiences
    * Teoritical
@@ -15,3 +15,5 @@
 * Software : Excel vs SPSS vs R
 
 ### 2-Hands-On Microsoft Excel
+
+* Pretest: [Download Here](https://docs.google.com/spreadsheets/d/1fE11LSKjjmiGSUKF2q4psgKQuBk3vBpmFnI9Ufgozng/edit#gid=2004832740)
