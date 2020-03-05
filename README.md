@@ -23,10 +23,11 @@
 Centralized value :
 
    * Average
-   * Arithmetic mean : Single and Class value
+   * Arithmetic mean : Single and Class value (a method of describing the average of the sample)
    * Median
    * Modus
    * Geometric mean
+   * Average vs Mean : https://byjus.com/maths/difference-between-average-and-mean/
    
 Distributed value :
 
