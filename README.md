@@ -36,6 +36,8 @@ Distributed value :
    * Coefficient of variation
    * Quartil: Boxplot
  
+ [Download Here](https://docs.google.com/spreadsheets/d/1a94OPY-vcF3IzqkgX3c7HoN3MbcZzDYGzS3GxuhylTs/edit?usp=sharing)
+ 
 
 ### Correlation
 
