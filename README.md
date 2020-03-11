@@ -41,7 +41,9 @@ Distributed value :
 
 ### Correlation
 
+![corr](https://user-images.githubusercontent.com/27078712/76420628-00279780-63d5-11ea-8547-71e03a63346e.PNG)
 
+![correxample](https://user-images.githubusercontent.com/27078712/76420622-fef66a80-63d4-11ea-8da3-bdffddc698be.PNG)
 
 
 
